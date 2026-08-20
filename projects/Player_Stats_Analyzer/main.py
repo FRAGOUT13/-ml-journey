@@ -33,7 +33,7 @@ print("\nTop 3 KD Ratios:")
 for i, p in enumerate(top_kd, 1):
     print(f"  {i}. {p['name']} — {p['kd']}")
 
-# Summary report pulling everything together
+# Summary report pulling everything together and all stats in one place
 print("\n=== PLAYER STATS REPORT ===")
 print(f"Total players : {len(players)}")
 print(f"Avg score     : {mean(scores):,.0f}")

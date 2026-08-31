@@ -6,9 +6,9 @@ Process: watch → code it manually → push.
 
 ## Structure
 
-- `bootcamp/` — foundational ML/AI bootcamp modules
-- `c1/` `c2/` `c3/` `c4/` `c5/` — course tracks
-- `projects/` — standalone builds
+- `FOR_GIT/BOOTCAMP/bootcamp/` — foundational ML/AI bootcamp modules
+- `FOR_GIT/BOOTCAMP/c1/` `c2/` `c3/` `c4/` `c5/` — course tracks
+- `FOR_GIT/BOOTCAMP/projects/` — standalone builds
 
 ## Log
 
